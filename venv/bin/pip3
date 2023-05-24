@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/christianmartin-roffey/Desktop/Udemy course /real_estate_marketplace/venv/bin/python3.10" "$0" "$@"
+'''exec' "/Users/christianmartin-roffey/Desktop/Codiing/real_estate_marketplace/venv/bin/python3.10" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
