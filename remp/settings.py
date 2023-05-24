@@ -79,8 +79,11 @@ WSGI_APPLICATION = 'remp.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'real_estate_db',
+        'USER': 'postgres',
+        'PASSWORD': 'TnKMn878',
+        'HOST': 'localhost'
     }
 }
 
