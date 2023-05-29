@@ -1,0 +1,25 @@
+#header{
+    color: floralwhite;
+    height: 50px;
+    background: firebrick;
+}
+
+#branding h1{
+    color:floralwhite;
+}
+
+a:link, a:visited{
+    color:floralwhite;
+}
+
+div.breadcrumbs{
+    background: coral;
+}
+
+div.breadcrumbs a {
+    color: floralwhite;
+}
+
+.module h2, .module caption, .inline-group h2{
+    background: coral;
+}
