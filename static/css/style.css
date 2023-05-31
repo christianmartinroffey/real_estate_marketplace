@@ -5,11 +5,10 @@ img {
   width: 100%; }
 
 .logo {
-  width: 80px; }
+  width: 50px; }
 
 .navbar {
-  opacity: 0.9;
-  text-transform: uppercase; }
+  text-transform: none; }
 
 .social a {
   margin-right: 0.4rem; }
