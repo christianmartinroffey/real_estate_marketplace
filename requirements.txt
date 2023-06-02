@@ -1,4 +1,4 @@
-Django==4.2.1
+Django==3.2.19
 executing==1.2.0
 MarkupSafe==2.1.2
 matplotlib-inline==0.1.6
